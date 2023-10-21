@@ -1,5 +1,6 @@
 
 
+<img align="center" src="https://www.codewars.com/users/VenerisAsgard-main/badges/large" alt="Фотокарточка">
 
 <center><img src="https://github.com/VenerisAsgard/VenerisAsgard/blob/main/header.png" alt="Фотокарточка"></center>
 
