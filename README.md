@@ -1,7 +1,7 @@
 
 
 
-<img align="center" src="https://github.com/VenerisAsgard/VenerisAsgard/blob/main/header.png" alt="Фотокарточка">
+<center><img src="https://github.com/VenerisAsgard/VenerisAsgard/blob/main/header.png" alt="Фотокарточка"></center>
 
 ![Codewars](https://www.codewars.com/users/VenerisAsgard-main/badges/large)
 
