@@ -1,12 +1,10 @@
 
 
-<img align="center" src="https://www.codewars.com/users/VenerisAsgard-main/badges/large" alt="Фотокарточка">
+
 
 <center><img src="https://github.com/VenerisAsgard/VenerisAsgard/blob/main/header.png" alt="Фотокарточка"></center>
 
-![Codewars](https://www.codewars.com/users/VenerisAsgard-main/badges/large)
-
-[![Codewars user stats](https://github.r2v.ch/codewars?user=VenerisAsgard-main&top_languages=true&hide_clan=true&theme=gradient)](https://www.codewars.com/users/VenerisAsgard-main)
+<img align="center" src="https://www.codewars.com/users/VenerisAsgard-main/badges/large" alt="Codewars"> <img align="center" src="https://github.r2v.ch/codewars?user=VenerisAsgard-main&top_languages=true&hide_clan=true&theme=gradient" alt="Codewars user stats">
 
 > # Цитаты великих людей
 > Ваша работа заполнит большую часть жизни и единственный способ быть
