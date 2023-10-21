@@ -6,7 +6,7 @@
 
 <div>
   <img style="float: left;" align="center" src="https://www.codewars.com/users/VenerisAsgard-main/badges/large" alt="Codewars">
-  <div style="width: 80px;"></div>
+  <div style="width: 10px;"></div>
   <img style="float: right;" align="center" src="https://github.r2v.ch/codewars?user=VenerisAsgard-main&top_languages=true&hide_clan=true&theme=gradient" alt="Codewars user stats">
 </div>
 
